@@ -14,9 +14,9 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'mypackage'
 DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/me/myproject'
-EMAIL = 'me@example.com'
-AUTHOR = 'Awesome Soul'
+URL = 'hhttps://github.com/Jc11235/ML_Class_Jupyter_Demos/myproject'
+EMAIL = 'jchapman48@gatech.edu'
+AUTHOR = 'James Chapman'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = None
 
