@@ -1,6 +1,6 @@
 # python package with setup.py
 
-[![Binder](https://mybinder.org/badge.svg)](https://github.com/Jc11235/ML_Class_Jupyter_Demos/setup.py/master?filepath=example_notebook%2Fimport_mypackage.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://github.com/Jc11235/ML_Class_Jupyter_Demos/setup.py/master?filepath=mypackage%2FPCA.ipynb)
 
 A Binder-compatible repo with a python package and a `setup.py` file.
 
