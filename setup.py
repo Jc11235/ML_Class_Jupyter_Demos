@@ -12,9 +12,9 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'mypackage'
+NAME = ''
 DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/Jc11235/ML_Class_Jupyter_Demos/myproject/'
+URL = 'https://github.com/Jc11235/ML_Class_Jupyter_Demos/'
 EMAIL = 'jchapman48@gatech.edu'
 AUTHOR = 'James Chapman'
 REQUIRES_PYTHON = '>=3.6.0'
