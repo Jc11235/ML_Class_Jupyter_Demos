@@ -2,21 +2,13 @@
 
 1. Requirements
 
-* Anaconda
 * Python modules defined in `requirements.txt` (installed in the second step)
-* Virtual environment
 
-Start by installing anaconda, https://docs.anaconda.com/anaconda/install/ , on your local machine. You should install an anaconda version that uses Python 3.7 or greater. Then install a python virtual environment by the following command:
+2. Download the project and install the requirements from requirements.txt
 
-```bash 
-pip install virtualenv
-```
-
-2. Clone the project and install the requirements from requirements.txt
+Start off by downloading a zip file of this repository above. Then, navigate to directory (after extraction of the downloaded zip file), and run the following commands:
 
 ```bash
-git clone git@github.com:Jc11235/ML_Class_Jupyter_Demos.git demos && cd demos
-virtualenv venv -p python3.7
 source venv/bin/activate
 pip install -r requirements.txt
 ```
