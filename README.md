@@ -1,8 +1,3 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Jc11235/ML_Class_Jupyter_Demos/master)
-
-This setup.py was originally adapted from [https://github.com/kennethreitz/setup.py](https://github.com/kennethreitz/setup.py) by @cranmer
-
-
 ## Start a local Jupyter server
 
 1. Requirements
@@ -36,4 +31,8 @@ jupyter notebook
 ## Run the notebook from a Binder server
 
 If you are having trouble installing the notebooks (Windows machines could be problematic), you can click on the "launch binder" icon at the top of this readme file to launch a binder server.
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Jc11235/ML_Class_Jupyter_Demos/master)
+
+This setup.py was originally adapted from [https://github.com/kennethreitz/setup.py](https://github.com/kennethreitz/setup.py) by @cranmer
 
