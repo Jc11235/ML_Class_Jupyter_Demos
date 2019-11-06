@@ -3,7 +3,7 @@
 This setup.py was originally adapted from [https://github.com/kennethreitz/setup.py](https://github.com/kennethreitz/setup.py) by @cranmer
 
 
-## Start a local Jupyter server server
+## Start a local Jupyter server
 
 1. Requirements
 
@@ -33,4 +33,8 @@ Run the following command to start your jupyter server:
 ```bash
 jupyter notebook
 ```
+
+## Run the notebook from a Binder server
+
+If you are having trouble installing the notebooks (Windows machines could be problematic), you can click on the "launch binder" icon at the top of this readme file to launch a binder server.
 
