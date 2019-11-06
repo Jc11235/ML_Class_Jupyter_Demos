@@ -7,11 +7,11 @@ This setup.py was originally adapted from [https://github.com/kennethreitz/setup
 
 1. Requirements
 
-* Python 3.7
+* Anaconda
 * Python modules defined in `requirements.txt` (installed in the second step)
 * Virtual environment
 
-Start by installing anaconda, https://docs.anaconda.com/anaconda/install/ , on your local machine. Then install apython visrtual environment by the following command:
+Start by installing anaconda, https://docs.anaconda.com/anaconda/install/ , on your local machine. You should install an anaconda version that uses Python 3.7 or greater. Then install a python virtual environment by the following command:
 
 ```bash 
 pip install virtualenv
