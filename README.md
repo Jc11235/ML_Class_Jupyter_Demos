@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ```
 
 3. Start your Jupyter server
+
 Run the following command to start your jupyter server:
 
 ```bash
