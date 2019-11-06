@@ -10,7 +10,6 @@ This setup.py was originally adapted from [https://github.com/kennethreitz/setup
 * Python 3.7
 * Python modules defined in `requirements.txt` (installed in the second step)
 * Virtual environment
-* Homebrew (OSX users)
 
 Start by installing anaconda, https://docs.anaconda.com/anaconda/install/ , on your local machine. Then install apython visrtual environment by the following command:
 
