@@ -1,4 +1,4 @@
-Before you start, download the project by clicking the green download button above. Once it's downloaded, unzip the file and place it in you Desktop.
+Before you start, download the project by clicking the green download button above. Once it's downloaded, unzip the file and place it in your Desktop.
 
 ## Start a local Jupyter server via Anaconda
 1. Download Anaconda ( https://www.anaconda.com/distribution/ )
