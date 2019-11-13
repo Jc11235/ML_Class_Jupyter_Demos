@@ -1,7 +1,7 @@
 ## Start a local Jupyter server
 
 1. Download the project and install the requirements from requirements.txt
-2. Make sure you have Python installed on your local system (https://www.python.org/downloads/). If you installing on Windows, please click the option during installation that allows the installer to add Python to the environment variable.
+2. Make sure you have Python installed on your local system (https://www.python.org/downloads/). If you installing on Windows, please click the option during installation that allows the installer to add Python to the environment variable. Alternatively you can install Anaconda, https://www.anaconda.com/distribution/ , and this is probably the perferred way for Windows users.
 
 
 Start off by downloading a zip file of this repository above. Then, navigate to directory (after extraction of the downloaded zip file), and run the following commands:
