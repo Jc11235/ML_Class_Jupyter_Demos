@@ -2,6 +2,7 @@
 
 1. Download the project and install the requirements from requirements.txt
 2. Make sure you have Python installed on your local system (https://www.python.org/downloads/)
+  a.
 
 Start off by downloading a zip file of this repository above. Then, navigate to directory (after extraction of the downloaded zip file), and run the following commands:
 
