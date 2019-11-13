@@ -1,10 +1,35 @@
-## Start a local Jupyter server
+Before you start, download the project by clicking the green download button above. Once it's downloaded, unzip the file and place it in you Desktop.
 
-1. Download the project and install the requirements from requirements.txt
-2. Make sure you have Python installed on your local system (https://www.python.org/downloads/). If you installing on Windows, please click the option during installation that allows the installer to add Python to the environment variable. Alternatively you can install Anaconda, https://www.anaconda.com/distribution/ , and this is probably the perferred way for Windows users.
+## Start a local Jupyter server via Anaconda
+1. Download Anaconda ( https://www.anaconda.com/distribution/ )
+2. Open the Anaconda navigator using:
+
+Mac/Linux via a shell terminal
+```bash
+anaconda/navigator
+```
+
+Windows via search
+```bash
+anaconda navigator
+```
+
+3. Once the navigator is open, click the lauch button under the Jupyter icon.
+4. Once the notebook is open, navigate to the unzipped folder.
+5. Click on a given notebook to run it.
+
+## Start a local Jupyter server via Python
+
+1. Make sure you have Python installed on your local system (https://www.python.org/downloads/). If you installing on Windows, please click the option during installation that allows the installer to add Python to the environment variable.
 
 
-Start off by downloading a zip file of this repository above. Then, navigate to directory (after extraction of the downloaded zip file), and run the following commands:
+Then, navigate to directory (after extraction of the downloaded zip file) by running *be aware that backslahes and forward slahses are OS dependant*:
+
+```bash
+cd PATH/TO/DIRECTORY
+```
+
+2. Once in the directory, run the following commands:
 
 Mac/Linux
 ```bash
@@ -18,9 +43,7 @@ Windows
 pip install -r requirements.txt
 ```
 
-2. Start your Jupyter server
-
-Run the following command to start your jupyter server:
+3. Run the following command to start your jupyter server:
 
 ```bash
 jupyter notebook
