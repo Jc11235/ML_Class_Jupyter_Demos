@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Windows
 ```bash
-venv/bin/activate
+.\venv\bin\activate
 pip install -r requirements.txt
 ```
 
