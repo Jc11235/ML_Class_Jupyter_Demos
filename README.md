@@ -1,11 +1,19 @@
 ## Start a local Jupyter server
 
 1. Download the project and install the requirements from requirements.txt
+2. Make sure you have Python installed on your local system (https://www.python.org/downloads/)
 
 Start off by downloading a zip file of this repository above. Then, navigate to directory (after extraction of the downloaded zip file), and run the following commands:
 
+Mac/Linux
 ```bash
 source venv/bin/activate
+pip install -r requirements.txt
+```
+
+Windows
+```bash
+venv/bin/activate
 pip install -r requirements.txt
 ```
 
