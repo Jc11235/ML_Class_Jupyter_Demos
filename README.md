@@ -14,7 +14,7 @@ Windows via search
 anaconda navigator
 ```
 
-3. Once the navigator is open, click the lauch button under the Jupyter icon.
+3. Once the navigator is open, click the launch button under the Jupyter icon.
 4. Once the notebook is open, navigate to the unzipped folder.
 5. Click on a given notebook to run it.
 
