@@ -2,14 +2,8 @@ Before you start, download the project by clicking the green download button abo
 
 ## Start a local Jupyter server via Anaconda
 1. Download Anaconda ( https://www.anaconda.com/distribution/ )
-2. Open the Anaconda navigator using:
+2. Open the Anaconda navigator by searching for the application:
 
-Mac/Linux via a shell terminal
-```bash
-anaconda/navigator
-```
-
-Windows via search
 ```bash
 anaconda navigator
 ```
